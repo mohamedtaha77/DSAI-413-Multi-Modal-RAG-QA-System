@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "modality": "text",
+    "question": "Who is the director of NASA's Johnson Space Center and what is the center's three-word strategic call to action?",
+    "expected_page": 2
+  },
+  {
+    "id": 2,
+    "modality": "text",
+    "question": "What are the five hazards of human spaceflight identified by NASA's Human Research Program?",
+    "expected_page": 15
+  },
+  {
+    "id": 3,
+    "modality": "text",
+    "question": "Where is the White Sands Test Facility located and what is its primary mission?",
+    "expected_page": 21
+  },
+  {
+    "id": 4,
+    "modality": "text",
+    "question": "Who is the program manager of the Orion program and how many astronauts can Orion carry?",
+    "expected_page": 11
+  },
+  {
+    "id": 5,
+    "modality": "text",
+    "question": "What is the role of the Gateway Program and who serves as its program manager?",
+    "expected_page": 12
+  },
+  {
+    "id": 6,
+    "modality": "text",
+    "question": "What training facilities does the Flight Operations Directorate use to train astronauts on the ground?",
+    "expected_page": 18
+  },
+  {
+    "id": 7,
+    "modality": "table",
+    "question": "How many acres does NASA's Johnson Space Center occupy and in what city is it located?",
+    "expected_page": 4
+  },
+  {
+    "id": 8,
+    "modality": "table",
+    "question": "How many total contractors and civil servants work at Johnson Space Center?",
+    "expected_page": 5
+  },
+  {
+    "id": 9,
+    "modality": "table",
+    "question": "How many industry partners and contractor agreements does Johnson Space Center have?",
+    "expected_page": 6
+  },
+  {
+    "id": 10,
+    "modality": "table",
+    "question": "When did NASA's Commercial Crew Program first launch crews from the United States?",
+    "expected_page": 9
+  },
+  {
+    "id": 11,
+    "modality": "image",
+    "question": "What does the map featured in the Johnson Space Center annual report show about Texas?",
+    "expected_page": 6
+  },
+  {
+    "id": 12,
+    "modality": "image",
+    "question": "What is shown on the cover page of the NASA Johnson Space Center 2024 Annual Report?",
+    "expected_page": 1
+  }
+]

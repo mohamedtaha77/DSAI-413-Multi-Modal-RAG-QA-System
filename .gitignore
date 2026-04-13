@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pth
+.venv/
+venv/
+qdrant_db/
+dataset.pdf
+test_pipeline.py
+.claude/

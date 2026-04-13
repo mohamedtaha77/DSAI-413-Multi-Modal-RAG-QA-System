@@ -1,0 +1,8 @@
+colpali-engine
+torch
+Pillow
+pymupdf
+qdrant-client
+openai
+streamlit
+pydantic-settings
