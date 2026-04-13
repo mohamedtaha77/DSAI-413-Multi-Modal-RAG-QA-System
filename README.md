@@ -11,13 +11,9 @@ PDF --> Page Images --> ColQwen2.5 Embeddings --> Qdrant Cloud (MaxSim) --> Top-
          (PyMuPDF)       (3B, 4-bit quantized)    (multi-vector 128d)                      (Llama 4 Maverick)
 ```
 
-![Architecture Diagram](assets/architecture.png)
-
 ## Demo
 
 ![Streamlit QA Interface](assets/demo_screenshot.png)
-
-![Benchmark Results](assets/benchmark_results.png)
 
 ## Setup
 
